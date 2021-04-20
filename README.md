@@ -1,3 +1,12 @@
+
+<h4 align="center"> 
+	🚧  dtmoney - Em construção...  🚧
+</h4>
+
+
+
+
+
 <h1 align="center">
   <img alt"dtmoney" title="dtmoney" src=".github/logo.svg")
 </h1>
@@ -7,11 +16,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-<h4 align="center"> 
-	🚧  dtmoney - Em construção...  🚧
-</h4>
 
 <br>
 
