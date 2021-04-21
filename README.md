@@ -37,9 +37,3 @@ Esse projeto foi desenvolvido dentro do **[Ignite](https://pages.rocketseat.com.
 Você pode ver o layout do projeto através do link abaixo:
 
 - [Layout](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=35212%3A460)
-
-
-
-<h4 align="center"> 
-	🚧  dtmoney - Em construção...  🚧
-</h4>
